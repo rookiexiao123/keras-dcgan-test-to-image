@@ -23,5 +23,5 @@ python dcgan_v2_train.py => 训练作者自带的训练集， epoch 1000
 3.
 python dcgan_v2_generate.py => 效果不太理想
 
-
+![image](https://github.com/rookiexiao123/keras-dcgan-test-to-image/blob/master/demo/data/outputs/dc-gan-v2-generated-0-0.png)
  
