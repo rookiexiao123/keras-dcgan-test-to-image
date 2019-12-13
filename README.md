@@ -8,7 +8,9 @@ Reference: https://github.com/chen0040/keras-text-to-image
 1.I use dcgan_v2.py.Some problems have been modified.mainly use demo and keras_text_to_image.we should know what are those in demo.
 
 demo/data/outputs => generator image
+
 demo/data/pokemon => dataset
+
 demo/data/snapshots => train info 
 
 demo/models => save train model
